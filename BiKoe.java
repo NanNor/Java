@@ -1,4 +1,4 @@
-
+fsdf
 public class BiKoe {
 	public static void main(String [] args) throws InterruptedException {
 			pln("{ n "+(char)400+ " N | n>k }");
